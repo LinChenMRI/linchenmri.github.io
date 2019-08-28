@@ -36,6 +36,6 @@ HONORS & AWARDS
 
 COLLABORATIONS
 ======
- [Peter C. M. van Zijl, PhD](https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl)<br>
- [Jiadi Xu, PhD](https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu)<br>
- [Zhiliang Wei, PhD](https://jhu.pure.elsevier.com/en/persons/zhiliang-wei)<br>
+* [Peter C. M. van Zijl, PhD](https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl)<br>
+* [Jiadi Xu, PhD](https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu)<br>
+* [Zhiliang Wei, PhD](https://jhu.pure.elsevier.com/en/persons/zhiliang-wei)<br>
