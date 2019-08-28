@@ -61,23 +61,22 @@ Journal Publications
 
 Conference abstracts
 ======
-\item \textbf{Chen L}, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, Zijl PCMv, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019. \textbf{(Summa Cum Laude Merit Award)}
-\item \textbf{Chen L}, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping of mouse skeletal muscle by a polynomial and Lorentzian line-shape fitting CEST method. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.
-\item \textbf{Chen L}, Wei Z, Xu X, Li Y, Cai S, Liu G, Lu H, Barker PB, Weiss RG, Zijl PCMv, Xu J. High-resolution total Creatine mapping of the mouse brain at 11.7T using CEST ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.
-\item \textbf{Chen L}, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, Zijl PCMv, Li T, Xu J. Protein Aggregation in Mouse Brain with Alzheimer's Disease Revealed by Saturation Transfer MRI. ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.
-\item \textbf{Chen L}, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, Zijl PCMv, Xu J. Separating out Fast and Slow Chemical Exchange Using Off-resonance Variable Delay Multiple Pulse (VDMP) ISMRM 25th Annual Meeting & Exhibition, Honolulu, 22-27 April 2017.
-\item \textbf{Chen L}, Cai SH, Cai CB, Chen Z. Variable density spiral sampling and reconstruction for spatiotemporally encoded single-shot MRI. ISMRM 24th Annual Meeting & Exhibition, Singapore, 07-13 May 2016.
-\item \textbf{Chen L}, Cai SH, Cai CB, Chen Z. Super-resolved enhancing and edge deghosting for spatiotemporally encoded single-shot MRI. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.
-\item \textbf{Chen L}, Cai SH, Cai CB. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015.\textbf{ (Best Poster Award)}
-\item \textbf{Chen L}, Cai CB, Cai SH, Chen Z. Accelerating MRI by quadratic phase encoding. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.
+1.	Chen L, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, Zijl PCMv, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
+2.	Chen L, Barker P, Weiss R, Zijl Pv, Xu J. Creatine and phosphocreatine mapping by polynomial and Lorentzian line-shape (PLOF) CEST method. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
+3.	Chen L, Wei Z, Xu X, Li Y, Cai S, Liu G, Lu H, Barker PB, Weiss RG, Zijl PCMv, Xu J. High-resolution total Creatine mapping of the mouse brain at 11.7T using CEST ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
+4.	Chen L, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, Zijl PCMv, Li T, Xu J. Protein Aggregation in Mouse Brain with Alzheimer's Disease Revealed by Saturation Transfer MRI. ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
+5.	Chen L, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, Zijl PCMv, Xu J. Separating out Fast and Slow Chemical Exchange Using Off-resonance Variable Delay Multiple Pulse (VDMP) ISMRM 25th Annual Meeting & Exhibition, Honolulu, 22-27 April 2017.<br>
+6.	Chen L, Cai SH, Cai CB, Chen Z. Variable density spiral sampling and reconstruction for spatiotemporally encoded single-shot MRI. ISMRM 24th Annual Meeting & Exhibition, Singapore, 07-13 May 2016.<br>
+7.	Chen L, Cai SH, Cai CB. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015.<br>
+8.	Chen L, Cai CB, Cai SH, Chen Z. Accelerating MRI by quadratic phase encoding. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
 
 Patents
 ======
-\item Cai SH, \textbf{Chen L}, Li J, Huang JP, Zhang T, Cai CB. Variable density sampling and non-Cartesian super-resolved reconstruction for spatiotemporally encoded single-shot MRI. China Patent, No. ZL201510269980.X.
-\item Cai SH, Li J, Cai CB, \textbf{Chen L}, Chen Z. Flexible reduced field of view magnetic resonance imaging based on single-shot spatiotemporally encoded technique. China Patent, No. ZL201410057472.0.
-\item Cai SH, Li J, Cai CB, \textbf{Chen L}, Chen Z. Imaging with referenceless distortion correction using single-shot biaxial spatiotemporally encoded MRI. China Patent, No. ZL201410057539.0.
-\item Cai SH, Zhang T, Cai CB, Li J, \textbf{Chen L}, Huang JP. Ultrafast multi-slice spatiotemporally encoded MRI with slice-selective dimension segmented. China Patent, No. 201510887987.8.
-\item Cai SH, Huang JP, Cai CB, \textbf{Chen L}, Liao P. An Efficient Water-Fat Separation Reconstruction Method Based on Single-Shot Spatiotemporally Encoded MRI. China Patent, No. 201710288050.8.
+1.	Cai S, Chen L, Li J, Huang J, Zhang T, Cai C. Variable density sampling and non-Cartesian super-resolved reconstruction for spatiotemporally encoded single-shot MRI. China Patent, No ZL201510269980X.<br>
+2.	Cai S, Li J, Cai C, Chen L, Chen Z. Flexible reduced field of view magnetic resonance imaging based on single-shot spatiotemporally encoded technique. China Patent, No ZL2014100574720.<br>
+3.	Cai S, Li J, Cai C, Chen L, Chen Z. Imaging with referenceless distortion correction using single-shot biaxial spatiotemporally encoded MRI. China Patent, No ZL2014100575390.<br>
+4.	Cai S, Zhang T, Cai C, Li J, Chen L, Huang J. Ultrafast multi-slice spatiotemporally encoded MRI with slice-selective dimension segmented. China Patent, No 2015108879878.<br>
+5.	Cai S, Huang J, Cai C, Chen L, Liao P. An Efficient Water-Fat Separation Reconstruction Method Based on Single-Shot Spatiotemporally Encoded MRI. China Patent, No 2017102880508.<br>
 
 COLLABORATIONS
 ======
