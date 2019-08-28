@@ -1,7 +1,7 @@
 ---
 title: "An aliasing artifacts reducing approach with random undersampling for spatiotemporally encoded single-shot MRI"
 collection: publications
-permalink: /publications/19-Oct-2013-paper-title-number-8
+permalink: /publications/19-Oct-2013-paper-title-number-100006
 excerpt: 'Random sampling combined with compressed sensing can reduce aliasing artifacts and improve image quality of SPEN MRI '
 date: 19-Oct-2013
 venue: 'Journal of Magnetic Resonance'

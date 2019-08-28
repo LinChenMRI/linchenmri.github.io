@@ -1,7 +1,7 @@
 ---
 title: "Super-resolved enhancing and edge deghosting (SEED) for spatiotemporally encoded single-shot MRI"
 collection: publications
-permalink: /publications/7-Apr-2015-paper-title-number-7
+permalink: /publications/7-Apr-2015-paper-title-number-100005
 excerpt: 'Super-resolved enhancing and edge deghosting (SEED) is the state-of-the-art super-resolved method for spatiotemporally encoded (SPEN) single-shot MRI'
 date: 7-Apr-2015
 venue: 'Medical Image Analysis'

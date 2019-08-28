@@ -1,7 +1,7 @@
 ---
 title: "Variable density sampling and non-Cartesian super-resolved reconstruction for spatiotemporally encoded single-shot MRI"
 collection: publications
-permalink: /publications/28-Aug-2016-paper-title-number-6
+permalink: /publications/28-Aug-2016-paper-title-number-100004
 excerpt: 'Non-Cartesian spatiotemporally encoded (SPEN) MRI with variable density sampling and super-resolved reconstruction improves imaging&apos;s faithfulness and spatial resolution.'
 date: 28-Aug-2016
 venue: 'Journal of Magnetic Resonance'

@@ -1,7 +1,7 @@
 ---
 title: "Investigation of the contribution of total creatine to the CEST Z-spectrum of brain using a knockout mouse model"
 collection: publications
-permalink: /publications/29-Sep-2017-paper-title-number-5
+permalink: /publications/29-Sep-2017-paper-title-number-100003
 excerpt: 'The current study aims to assign and estimate the total creatine (tCr) signal contribution to the Z-spectrum in mouse brain at 11.7 T.'
 date: 29-Sep-2017
 venue: 'NMR in Biomedicine'

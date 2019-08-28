@@ -1,7 +1,7 @@
 ---
 title: "Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI"
 collection: publications
-permalink: /publications/13-Dec-2018-paper-title-number-2
+permalink: /publications/13-Dec-2018-paper-title-number-100000
 excerpt: 'Detection of protein aggregation associated with Alzheimer&apos;s disease using a mouse model by a UTE-CEST sequence.'
 date: 13-Dec-2018
 venue: 'NeuroImage'
