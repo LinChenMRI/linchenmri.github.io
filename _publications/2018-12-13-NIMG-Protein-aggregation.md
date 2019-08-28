@@ -13,4 +13,4 @@ The goal of this study was to develop a molecular biomarker for the detection of
 Key Words:
 Chemical exchange saturation transfer (CEST); Magnetization transfer contrast (MTC); Alzheimer's disease (AD); Saturation transfer (ST); Radial acquisition; UTE-CEST
 
-[Download paper here](https://doi.org/10.1016/j.neuroimage.2018.12.018)
+[Download paper here](http://linchenmri.github.io/files/Chen-2019-Protein aggregation linked to Alzhei.pdf)

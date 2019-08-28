@@ -13,4 +13,4 @@ The current study aims to optimize the acquisition scheme for the creatine (Cr) 
 Key Words:
 Chemical Exchange Saturation Transfer (CEST), Creatine, Magnetization Transfer, Polynomial and Lorentzian Line-shape Fitting (PLOF)
 
-[Download paper here](https://doi.org/10.1002/nbm.4168)
+[Download paper here](http://linchenmri.github.io/files/Chen-High-resolution creatine mapping of mouse.pdf)
