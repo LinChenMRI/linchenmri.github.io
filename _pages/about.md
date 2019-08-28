@@ -21,7 +21,7 @@ EDUCATION
 SKILLS
 ======
 * Medical image analysis, Bruker Programming, Philips Programming
-* Matlab, C, Tensorflow, Python
+* Matlab, C, Python
 
 HONORS & AWARDS
 ======
