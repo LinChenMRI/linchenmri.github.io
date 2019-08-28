@@ -12,22 +12,27 @@ Dr. Chen received his B.S., M.S. and Ph.D. degrees from Xiamen University, China
 
 EDUCATION
 ======
-* 2018 - Present  Postdoctoral Fellow
-* Johns Hopkins University
-* Mentor: Peter C.M. van Zijl
-
-
-HONORS & AWARDS
-======
-* •	2019 ISMRM Summa Cum Laude Merit Award
-* •	2019 OCSMRM Young Investigator Award
-* •	2018 First Prize of the 13th Excellent Academic Paper of Natural Science in Fujian Province
-* •	2016 National Scholarship for Graduate Students
-* •	2015 ISMAR Best Poster Award
-* •	2009, 2010, 2012,2013,2014 Xiamen University Merit Student
-* •	2009, 2010, 2012,2014 Xiamen University First-class Scholarship
-* •	2011 Xiamen University Outstanding Student Leader
+* B.S. in Electronic Information Science and Technology, Xiamen University, 2011
+* M.S. in Electronics and Communication Engineering, Xiamen University, 2014
+* Ph.D in Electromagnetic Field and Microwave Technology, Xiamen University, 2017
+* Visiting Student, Johns Hopkins University, 2015 - 2017
+* Postdoctoral Fellow, Johns Hopkins University, 2018 - Present
 
 SKILLS
 ======
-Matlab, C, Bruker Programming, Philips Programming, Tensorflow, Python
+* Medical image analysis, Bruker Programming, Philips Programming
+* Matlab, C, Tensorflow, Python
+
+HONORS & AWARDS
+======
+* 2019 ISMRM Summa Cum Laude Merit Award
+* 2019 OCSMRM Young Investigator Award
+* 2018 First Prize of the 13th Excellent Academic Paper of Natural Science in Fujian Province
+* 2016 National Scholarship for Graduate Students
+* 2015 ISMAR Best Poster Award
+* 2009, 2010, 2012,2013,2014 Xiamen University Merit Student
+* 2009, 2010, 2012,2014 Xiamen University First-class Scholarship
+* 2011 Xiamen University Outstanding Student Leader
+
+COLLABORATIONS
+======
