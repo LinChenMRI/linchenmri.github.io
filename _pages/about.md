@@ -12,21 +12,22 @@ Dr. Chen received his B.S., M.S. and Ph.D. degrees from Xiamen University, China
 
 EDUCATION
 ======
-2018 - Present  Postdoctoral Fellow
-Johns Hopkins University
-Mentor: Peter C.M. van Zijl
+* 2018 - Present  Postdoctoral Fellow
+* Johns Hopkins University
+* Mentor: Peter C.M. van Zijl
 
-HONORS \& AWARDS
+
+HONORS & AWARDS
 ======
-•	2019 ISMRM Summa Cum Laude Merit Award
-•	2019 OCSMRM Young Investigator Award
-•	2018 First Prize of the 13th Excellent Academic Paper of Natural Science in Fujian Province
-•	2016 National Scholarship for Graduate Students
-•	2015 ISMAR Best Poster Award
-•	2009, 2010, 2012,2013,2014 Xiamen University Merit Student
-•	2009, 2010, 2012,2014 Xiamen University First-class Scholarship
-•	2011 Xiamen University Outstanding Student Leader
+* •	2019 ISMRM Summa Cum Laude Merit Award
+* •	2019 OCSMRM Young Investigator Award
+* •	2018 First Prize of the 13th Excellent Academic Paper of Natural Science in Fujian Province
+* •	2016 National Scholarship for Graduate Students
+* •	2015 ISMAR Best Poster Award
+* •	2009, 2010, 2012,2013,2014 Xiamen University Merit Student
+* •	2009, 2010, 2012,2014 Xiamen University First-class Scholarship
+* •	2011 Xiamen University Outstanding Student Leader
 
 SKILLS
-------
+======
 Matlab, C, Bruker Programming, Philips Programming, Tensorflow, Python
