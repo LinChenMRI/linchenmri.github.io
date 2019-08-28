@@ -36,6 +36,11 @@ HONORS & AWARDS
 
 COLLABORATIONS
 ======
-* [Peter C. M. van Zijl, PhD](https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl)<br>
-* [Jiadi Xu, PhD](https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu)<br>
-* [Zhiliang Wei, PhD](https://jhu.pure.elsevier.com/en/persons/zhiliang-wei)<br>
+* [Peter C. M. van Zijl, Johns Hopkins University](https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl)<br>
+* [Jiadi Xu, Johns Hopkins University](https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu)<br>
+* [Guanshu Liu, Johns Hopkins University](https://www.hopkinsmedicine.org/profiles/results/directory/profile/0800037/guanshu-liu)<br>
+* [Zhiliang Wei, Johns Hopkins University](https://jhu.pure.elsevier.com/en/persons/zhiliang-wei)<br>
+* [Kannie W.Y. Chan, City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/wai-yan-kannie-chan(45d288f8-7046-4827-b779-c390c7718718).html)<br>
+* [HUANG Jianpan, City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/jianpan-huang(5da104e4-92e7-4e59-974d-b3f97ff0514f).html)<br>
+* [Zhong Chen, Xiamen University](https://esci.xmu.edu.cn/2016/0729/c9602a190017/page.htm)<br>
+* [Shuhui Cai, Xiamen University](https://esci.xmu.edu.cn/2016/0729/c9602a190020/page.htm)<br>
