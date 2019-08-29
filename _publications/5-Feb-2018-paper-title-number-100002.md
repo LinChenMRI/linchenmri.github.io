@@ -1,8 +1,8 @@
 ---
-title: "Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse(VDMP) MRI"
+title: "Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse(VDMP) MRI(MRM Highlight)"
 collection: publications
 permalink: /publications/5-Feb-2018-paper-title-number-100002
-excerpt: '<b>Develop a method that can separate and quantify the fast (>1 kHz) and slow exchange transfer and magnetization transfer components in Z-spectra.(Editors' Pick)</b><br><center><img width = "100%" src="http://linchenmri.github.io/files/2018-MRM-OffVDMP.png" alt=""></center>'
+excerpt: '<b>Develop a method that can separate and quantify the fast (>1 kHz) and slow exchange transfer and magnetization transfer components in Z-spectra.</b><br><center><img width = "100%" src="http://linchenmri.github.io/files/2018-MRM-OffVDMP.png" alt=""></center>'
 date: 5-Feb-2018
 venue: 'Magnetic Resonance in Medicine'
 citation: '<b>Chen L</b>, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, van Zijl PCM, Xu J. Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse (VDMP) MRI. Magn Reson Med 2018;80(4):1568-1576.'
@@ -27,4 +27,4 @@ This new method provides a simple way to extract fast and slow transfer componen
 <br>
 <a href='https://doi.org/10.1002/mrm.27111' target="_blank">Download paper here</a>
 <br>
-<a href='https://blog.ismrm.org/2018/10/12/qa-with-lin-chen-and-jiadi-xu/' target="_blank">Find ISMRM Highlight here</a>
+<a href='https://blog.ismrm.org/2018/10/12/qa-with-lin-chen-and-jiadi-xu/' target="_blank">Find MRM Highlight here</a>
