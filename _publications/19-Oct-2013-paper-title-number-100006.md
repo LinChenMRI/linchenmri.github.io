@@ -14,7 +14,5 @@ Compared to the echo planar imaging (EPI), spatiotemporally encoded (SPEN) singl
 
 
 <br>
-<a href='https://doi.org/10.1016/j.jmr.2013.10.005'>Download paper here</a>
-
-<br>
-<a href='https://github.com/LinChenMRI/CSReconstruction-for-SPEN-MRI'>Download code here</a>
+<a href='https://doi.org/10.1016/j.jmr.2013.10.005' target="_blank">Download paper here</a>
+<a href='https://github.com/LinChenMRI/CSReconstruction-for-SPEN-MRI' target="_blank">Download code here</a>

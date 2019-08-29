@@ -14,4 +14,4 @@ The current study aims to assign and estimate the total creatine (tCr) signal co
 
 
 <br>
-<a href='https://doi.org/10.1002/nbm.3834'>Download paper here</a>
+<a href='https://doi.org/10.1002/nbm.3834' target="_blank">Download paper here</a>

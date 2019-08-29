@@ -13,4 +13,4 @@ The current study aims to optimize the acquisition scheme for the creatine chemi
 
 
 <br>
-[Download paper here](https://doi.org/10.1002/nbm.4168)
+<a href='https://doi.org/10.1002/nbm.4168' target="_blank">Download paper here</a>

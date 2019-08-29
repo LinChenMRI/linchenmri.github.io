@@ -24,4 +24,4 @@ The PLOF method provides an efficient way to map Cr and PCr concentrations simul
 
 
 <br>
-[Download paper here](https://doi.org/10.1002/mrm.27514)
+<a href='https://doi.org/10.1002/mrm.27514' target="_blank">Download paper here</a>

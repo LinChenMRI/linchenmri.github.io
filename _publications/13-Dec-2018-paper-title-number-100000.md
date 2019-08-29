@@ -13,4 +13,4 @@ The goal of this study was to develop a molecular biomarker for the detection of
 
 
 <br>
-[Download paper here](https://doi.org/10.1016/j.neuroimage.2018.12.018)
+<a href='https://doi.org/10.1016/j.neuroimage.2018.12.018' target="_blank">Download paper here</a>

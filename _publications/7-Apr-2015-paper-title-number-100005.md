@@ -14,7 +14,5 @@ Spatiotemporally encoded (SPEN) single-shot MRI is an ultrafast MRI technique pr
 
 
 <br>
-<a href='https://doi.org/10.1016/j.media.2015.03.004'>Download paper here</a>
-
-<br>
-<a href='https://github.com/LinChenMRI/SEED-for-SPEN-MRI'>Download code here</a>
+<a href='https://doi.org/10.1016/j.media.2015.03.004' target="_blank">Download paper here</a>
+<a href='https://github.com/LinChenMRI/SEED-for-SPEN-MRI' target="_blank">Download code here</a>
