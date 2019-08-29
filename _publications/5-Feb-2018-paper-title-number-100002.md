@@ -1,5 +1,5 @@
 ---
-title: "Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse(VDMP) MRI(MRM Highlight)"
+title: "Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse(VDMP) MRI <i>(MRM Highlight)</i>"
 collection: publications
 permalink: /publications/5-Feb-2018-paper-title-number-100002
 excerpt: '<b>Develop a method that can separate and quantify the fast (>1 kHz) and slow exchange transfer and magnetization transfer components in Z-spectra.</b><br><center><img width = "100%" src="http://linchenmri.github.io/files/2018-MRM-OffVDMP.png" alt=""></center>'
