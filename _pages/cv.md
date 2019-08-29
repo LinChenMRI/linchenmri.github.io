@@ -1,12 +1,13 @@
 ---
-permalink: /
-title: "Homepage of Lin Chen (陈林)"
-excerpt: "About me"
+layout: archive
+title: "Home"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 Biography
 ======
