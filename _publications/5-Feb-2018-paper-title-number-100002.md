@@ -26,4 +26,5 @@ This new method provides a simple way to extract fast and slow transfer componen
 
 <br>
 <a href='https://doi.org/10.1002/mrm.27111' target="_blank">Download paper here</a>
+<br>
 <a href='https://blog.ismrm.org/2018/10/12/qa-with-lin-chen-and-jiadi-xu/' target="_blank">Find ISMRM Highlight here</a>
