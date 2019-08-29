@@ -2,7 +2,7 @@
 title: "Creatine and phosphocreatine mapping of mouse skeletal muscle by a polynomial and Lorentzian line-shape fitting CEST method"
 collection: publications
 permalink: /publications/23-Sep-2018-paper-title-number-100001
-excerpt: '<b>High-resolution Cr and PCr maps of mouse skeletal muscle can be obtained using a polynomial and Lorentzian line-shape fitting (PLOF) CEST method.</b><br><center><img width = "90%" src="http://linchenmri.github.io/files/2018-MRM-CrAndPCr.png" alt=""></center>'
+excerpt: '<b>High-resolution Cr and PCr maps of mouse skeletal muscle can be obtained using a polynomial and Lorentzian line-shape fitting (PLOF) CEST method.</b><br><center><img width = "100%" src="http://linchenmri.github.io/files/2018-MRM-CrAndPCr.png" alt=""></center>'
 date: 23-Sep-2018
 venue: 'Magnetic Resonance in Medicine'
 citation: '<b>Chen L</b>, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping of mouse skeletal muscle by a polynomial and Lorentzian line-shape fitting CEST method. Magn Reson Med 2019;81(1):69-78.'
@@ -20,8 +20,8 @@ CONCLUSIONS:
 The PLOF method provides an efficient way to map Cr and PCr concentrations simultaneously in the skeletal muscle at high MRI field.
 
 
-<center><img width = "90%" src="http://linchenmri.github.io/files/2018-MRM-CrAndPCr.png" alt=""></center>
+<center><img width = "100%" src="http://linchenmri.github.io/files/2018-MRM-CrAndPCr.png" alt=""></center>
 
 
 <br>
-[Download paper here](http://linchenmri.github.io/files/2018-MRM-CrAndPCr.pdf)
+[Download paper here](https://doi.org/10.1002/mrm.27514)
