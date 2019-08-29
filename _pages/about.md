@@ -36,7 +36,7 @@ Awards
 * 2009, 2010, 2012,2014 Xiamen University First-class Scholarship
 * 2011 Xiamen University Outstanding Student Leader
 
-Journal Publications
+Journal publications
 ======
 1.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI. <b><i>NeuroImage</i></b> 2019;188:380-390.<br>
 2.	<b>Chen L</b>, Wei Z, Cai S, Li Y, Liu G, Lu H, Weiss RG, van Zijl PCM, Xu J. High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer. <b><i>NMR Biomed</i></b> 2019;0(0):e4168.<br>
