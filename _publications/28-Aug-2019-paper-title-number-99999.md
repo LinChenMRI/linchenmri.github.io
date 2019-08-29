@@ -2,7 +2,7 @@
 title: "High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer"
 collection: publications
 permalink: /publications/28-Aug-2019-paper-title-number-99999
-excerpt: '<img width = "70%" src="http://linchenmri.github.io/files/2019-NBM-High-resolutionCr.png" alt="" class="center"><br><b>A high-resolution creatine map can be obtained on mouse brain using polynomial and Lorentzian line-shape fitting (PLOF) method with non-steady-state CEST acquisition.<\b>'
+excerpt: '<b>A high-resolution creatine map can be obtained on mouse brain using polynomial and Lorentzian line-shape fitting (PLOF) method with non-steady-state CEST acquisition.</b><br><img width = "70%" src="http://linchenmri.github.io/files/2019-NBM-High-resolutionCr.png" alt="" class="center">'
 date: 28-Aug-2019
 venue: 'NMR in Biomedicine'
 citation: 'Chen L, Wei Z, Cai S, et al. High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer. NMR in Biomedicine. 2019;e4168.'
