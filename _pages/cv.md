@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Homepage of Lin Chen (陈林)"
+title: "Lin Chen (陈林)"
 permalink: /cv/
 author_profile: true
 redirect_from:
