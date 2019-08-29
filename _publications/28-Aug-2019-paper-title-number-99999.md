@@ -11,4 +11,6 @@ The current study aims to optimize the acquisition scheme for the creatine chemi
 
 <center><img width = "90%" src="http://linchenmri.github.io/files/2019-NBM-High-resolutionCr.png" alt=""></center>
 
+
+<br>
 [Download paper here](http://linchenmri.github.io/files/2019-NBM-High-resolutionCr.pdf)
