@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-Dr. Chen received his B.S., M.S. and Ph.D. degrees from Xiamen University. His dissertation focused on spatiotemporally encoded (SPEN) single-shot MRI and chemical exchange saturation transfer (CEST) MRI. During his Ph.D. program, he joined Peter van Zijl's group as Visiting Student at Johns Hopkins University School of Medicine. After completing Ph.D. program, he joined Johns Hopkins University as a postdoctoral fellow in 2018. His current interest is developing new methods for CEST MRI.
+Dr. Chen received his B.S., M.S. and Ph.D. degrees from Xiamen University. His dissertation focused on spatiotemporally encoded (SPEN) single-shot MRI and chemical exchange saturation transfer (CEST) MRI. During his Ph.D. program, he joined Peter van Zijl's group as Visiting Student at Johns Hopkins University School of Medicine. After completing Ph.D. program, he joined Johns Hopkins University as a postdoctoral fellow in 2018. His current interest is developing new methods for CEST MRI. test about
 
 Education
 ======
