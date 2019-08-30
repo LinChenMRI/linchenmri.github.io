@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lin Chen (陈林)"
+title: "Dr. Lin Chen (陈林)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

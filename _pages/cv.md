@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Lin Chen (陈林)"
-permalink: /cv/
+title: "Dr. Lin Chen (陈林)"
+permalink: /
 author_profile: true
 redirect_from:
-  - /resume
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
