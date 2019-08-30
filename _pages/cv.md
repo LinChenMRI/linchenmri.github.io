@@ -79,7 +79,7 @@ Patents
 4.	Cai S, Zhang T, Cai C, Li J, <b>Chen L</b>, Huang J. Ultrafast multi-slice spatiotemporally encoded MRI with slice-selective dimension segmented. China Patent, No 2015108879878.<br>
 5.	Cai S, Huang J, Cai C, <b>Chen L</b>, Liao P. An Efficient Water-Fat Separation Reconstruction Method Based on Single-Shot Spatiotemporally Encoded MRI. China Patent, No 2017102880508.<br>
 
-<center><b><a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank"><font size=2>Download CV here</font></a></b></center>
+<center><b><a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank"><h2>Download CV here</h2></a></b></center>
 
 
 Collaborations
