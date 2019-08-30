@@ -68,7 +68,8 @@ Conference abstracts
 6.	<b>Chen L</b>, Cai SH, Cai CB, Chen Z. Variable density spiral sampling and reconstruction for spatiotemporally encoded single-shot MRI. ISMRM 24th Annual Meeting & Exhibition, Singapore, 07-13 May 2016.<br>
 7.	<b>Chen L</b>, Cai SH, Cai CB. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015.<br>
 8.	<b>Chen L</b>, Cai CB, Cai SH, Chen Z. Accelerating MRI by quadratic phase encoding. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
-9.	<b>Chen L</b>, Cai C, Cai S, Chen Z. An artifacts reducing approach for fat-water separation in spatiotemporally encoded single-shot MRI. ISMRM 22nd Annual Meeting & Exhibition, Milan, Italy, 10 - 16 May 2014.<br>
+9.	<b>Chen L</b>, Cai SH, Cai CB, Chen Z. Super-resolved enhancing and edge deghosting for spatiotemporally encoded single-shot MRI. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
+10.	<b>Chen L</b>, Cai C, Cai S, Chen Z. An artifacts reducing approach for fat-water separation in spatiotemporally encoded single-shot MRI. ISMRM 22nd Annual Meeting & Exhibition, Milan, Italy, 10 - 16 May 2014.<br>
 
 Patents
 ======
@@ -77,6 +78,10 @@ Patents
 3.	Cai S, Li J, Cai C, <b>Chen L</b>, Chen Z. Imaging with referenceless distortion correction using single-shot biaxial spatiotemporally encoded MRI. China Patent, No ZL2014100575390.<br>
 4.	Cai S, Zhang T, Cai C, Li J, <b>Chen L</b>, Huang J. Ultrafast multi-slice spatiotemporally encoded MRI with slice-selective dimension segmented. China Patent, No 2015108879878.<br>
 5.	Cai S, Huang J, Cai C, <b>Chen L</b>, Liao P. An Efficient Water-Fat Separation Reconstruction Method Based on Single-Shot Spatiotemporally Encoded MRI. China Patent, No 2017102880508.<br>
+
+<a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank">Download CV</a>
+======
+
 
 
 Collaborations
