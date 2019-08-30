@@ -22,7 +22,7 @@ Education
 * Visiting Student, Johns Hopkins University, 2015 - 2017
 * Postdoctoral Fellow, Johns Hopkins University, 2018 - Present
 
-Honors & awards
+Honors and awards
 ======
 * 2019 ISMRM Summa Cum Laude Merit Award
 * 2019 OCSMRM Young Investigator Award
