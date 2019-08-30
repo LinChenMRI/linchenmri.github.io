@@ -22,7 +22,7 @@ Education
 * Visiting Student, Johns Hopkins University, 2015 - 2017
 * Postdoctoral Fellow, Johns Hopkins University, 2018 - Present
 
-Honors & Awards
+Honors & awards
 ======
 * 2019 ISMRM Summa Cum Laude Merit Award
 * 2019 OCSMRM Young Investigator Award
@@ -33,7 +33,7 @@ Honors & Awards
 * 2009, 2010, 2012,2014 Xiamen University First-class Scholarship
 * 2011 Xiamen University Outstanding Student Leader
 
-Journal Publications
+Journal publications
 ======
 1.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI. <b><i>NeuroImage</i></b> 2019;188:380-390.<br>
 2.	<b>Chen L</b>, Wei Z, Cai S, Li Y, Liu G, Lu H, Weiss RG, van Zijl PCM, Xu J. High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer. <b><i>NMR Biomed</i></b> 2019;0(0):e4168.<br>
@@ -58,7 +58,7 @@ Journal Publications
 21.	Li J, Cai CB, <b>Chen L</b>, Chen Y, Qu XB, Cai SH. Flexible reduced field of view magnetic resonance imaging based on single-shot spatiotemporally encoded technique. <b><i>Chinese Physics B</i></b> 2015;24(10):108703.<br>
 22.	Chen Y, Li J, Qu X, <b>Chen L</b>, Cai C, Cai S, Zhong J, Chen Z. Partial Fourier transform reconstruction for single-shot MRI with linear frequency-swept excitation. <b><i>Magn Reson Med</i></b> 2013;69(5):1326-1336.<br>
 
-Conference Abstracts
+Conference abstracts
 ======
 1.	<b>Chen L</b>, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, Zijl PCMv, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
 2.	<b>Chen L</b>, Barker P, Weiss R, Zijl Pv, Xu J. Creatine and phosphocreatine mapping by polynomial and Lorentzian line-shape (PLOF) CEST method. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
