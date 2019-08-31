@@ -60,15 +60,15 @@ Journal publications
 
 Conference abstracts
 ======
-1.	<b>Chen L</b>, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, Zijl PCMv, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
-2.	<b>Chen L</b>, Barker P, Weiss R, Zijl Pv, Xu J. Creatine and phosphocreatine mapping by polynomial and Lorentzian line-shape (PLOF) CEST method. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
-3.	<b>Chen L</b>, Wei Z, Xu X, Li Y, Cai S, Liu G, Lu H, Barker PB, Weiss RG, Zijl PCMv, Xu J. High-resolution total Creatine mapping of the mouse brain at 11.7T using CEST ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
-4.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, Zijl PCMv, Li T, Xu J. Protein Aggregation in Mouse Brain with Alzheimer's Disease Revealed by Saturation Transfer MRI. ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
-5.	<b>Chen L</b>, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, Zijl PCMv, Xu J. Separating out Fast and Slow Chemical Exchange Using Off-resonance Variable Delay Multiple Pulse (VDMP) ISMRM 25th Annual Meeting & Exhibition, Honolulu, 22-27 April 2017.<br>
-6.	<b>Chen L</b>, Cai SH, Cai CB, Chen Z. Variable density spiral sampling and reconstruction for spatiotemporally encoded single-shot MRI. ISMRM 24th Annual Meeting & Exhibition, Singapore, 07-13 May 2016.<br>
-7.	<b>Chen L</b>, Cai SH, Cai CB. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015.<br>
-8.	<b>Chen L</b>, Cai CB, Cai SH, Chen Z. Accelerating MRI by quadratic phase encoding. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
-9.	<b>Chen L</b>, Cai SH, Cai CB, Chen Z. Super-resolved enhancing and edge deghosting for spatiotemporally encoded single-shot MRI. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
+1.	<b>Chen L</b>, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, van Zijl PCM, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
+2.	<b>Chen L</b>, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping by polynomial and Lorentzian line-shape (PLOF) CEST method. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
+3.	<b>Chen L</b>, Wei Z, Xu X, Li Y, Cai S, Liu G, Lu H, Barker PB, Weiss RG, van Zijl PCM, Xu J. High-resolution total Creatine mapping of the mouse brain at 11.7T using CEST ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
+4.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein Aggregation in Mouse Brain with Alzheimer's Disease Revealed by Saturation Transfer MRI. ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
+5.	<b>Chen L</b>, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, van Zijl PCM, Xu J. Separating out Fast and Slow Chemical Exchange Using Off-resonance Variable Delay Multiple Pulse (VDMP) ISMRM 25th Annual Meeting & Exhibition, Honolulu, 22-27 April 2017.<br>
+6.	<b>Chen L</b>, Cai S, Cai C, Chen Z. Variable density spiral sampling and reconstruction for spatiotemporally encoded single-shot MRI. ISMRM 24th Annual Meeting & Exhibition, Singapore, 07-13 May 2016.<br>
+7.	<b>Chen L</b>, Cai S, Cai C, Chen Z. Super-resolved enhancing and edge deghosting for spatiotemporally encoded single-shot MRI. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
+8.	<b>Chen L</b>, Cai S, Cai C. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015.<br>
+9.	<b>Chen L</b>, Cai C, Cai S, Chen Z. Accelerating MRI by quadratic phase encoding. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
 10.	<b>Chen L</b>, Cai C, Cai S, Chen Z. An artifacts reducing approach for fat-water separation in spatiotemporally encoded single-shot MRI. ISMRM 22nd Annual Meeting & Exhibition, Milan, Italy, 10 - 16 May 2014.<br>
 
 Patents
