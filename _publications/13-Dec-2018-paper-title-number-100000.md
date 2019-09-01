@@ -14,3 +14,5 @@ The goal of this study was to develop a molecular biomarker for the detection of
 
 <br>
 <a href='https://doi.org/10.1016/j.neuroimage.2018.12.018' target="_blank">Download paper here</a>
+<br>
+<a href='https://www.brainpost.co/weekly-brainpost/2018/12/18/using-a-new-mri-protocol-to-visualize-alzheimers-plaques?from=timeline&isappinstalled=0' target="_blank">Find special report here</a>
