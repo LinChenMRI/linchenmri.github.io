@@ -90,6 +90,7 @@ Collaborations
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl' target="_blank"><b>Peter C. M. van Zijl</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu' target="_blank"><b>Jiadi Xu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0000047/hanzhang-lu' target="_blank"><b>Hanzhang Lu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
+* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/2715321/jinyuan-zhou' target="_blank"><b>Jinyuan Zhou</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0004011/robert-weiss' target="_blank"><b>Robert G. Weiss</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/3869712/qin-qin' target="_blank"><b>Qin Qin</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0800037/guanshu-liu' target="_blank"><b>Guanshu Liu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
