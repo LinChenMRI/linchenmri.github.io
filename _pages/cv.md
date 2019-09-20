@@ -84,7 +84,7 @@ Patents
 
 <center><b><a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank"><h2>Download CV here</h2></a></b></center>
 
-
+<!--
 Collaborations
 ======
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl' target="_blank"><b>Peter C. M. van Zijl</b>,  <b><i>Johns Hopkins University</i></b></a><br>
@@ -100,4 +100,5 @@ Collaborations
 * <a href='https://scholars.cityu.edu.hk/en/persons/jianpan-huang(5da104e4-92e7-4e59-974d-b3f97ff0514f).html' target="_blank"><b>Jianpan Huang</b>,  <b><i>City University of Hong Kong</i></b></a><br>
 * <a href='https://esci.xmu.edu.cn/2016/0729/c9602a190017/page.htm' target="_blank"><b>Zhong Chen</b>,  <b><i>Xiamen University</i></b></a><br>
 * <a href='https://esci.xmu.edu.cn/2016/0729/c9602a190020/page.htm' target="_blank"><b>Shuhui Cai</b>,  <b><i>Xiamen University</i></b></a><br>
+-->
 <center><img width = "100%" src="http://linchenmri.github.io/files/CollaborationGraph.bmp" alt=""></center>
