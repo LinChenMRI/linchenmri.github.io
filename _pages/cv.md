@@ -84,21 +84,5 @@ Patents
 
 <center><b><a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank"><h2>Download CV here</h2></a></b></center>
 <br>
-<!--
-Collaborations
-======
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl' target="_blank"><b>Peter C. M. van Zijl</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu' target="_blank"><b>Jiadi Xu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0000047/hanzhang-lu' target="_blank"><b>Hanzhang Lu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/2715321/jinyuan-zhou' target="_blank"><b>Jinyuan Zhou</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0004011/robert-weiss' target="_blank"><b>Robert G. Weiss</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/3869712/qin-qin' target="_blank"><b>Qin Qin</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0800037/guanshu-liu' target="_blank"><b>Guanshu Liu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002437/michael-schar' target="_blank"><b>Michael Schär</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://jhu.pure.elsevier.com/en/persons/zhiliang-wei' target="_blank"><b>Zhiliang Wei</b>,  <b><i>Johns Hopkins University</i></b></a><br>
-* <a href='https://scholars.cityu.edu.hk/en/persons/wai-yan-kannie-chan(45d288f8-7046-4827-b779-c390c7718718).html' target="_blank"><b>Kannie W.Y. Chan</b>,  <b><i>City University of Hong Kong</i></b></a><br>
-* <a href='https://scholars.cityu.edu.hk/en/persons/jianpan-huang(5da104e4-92e7-4e59-974d-b3f97ff0514f).html' target="_blank"><b>Jianpan Huang</b>,  <b><i>City University of Hong Kong</i></b></a><br>
-* <a href='https://esci.xmu.edu.cn/2016/0729/c9602a190017/page.htm' target="_blank"><b>Zhong Chen</b>,  <b><i>Xiamen University</i></b></a><br>
-* <a href='https://esci.xmu.edu.cn/2016/0729/c9602a190020/page.htm' target="_blank"><b>Shuhui Cai</b>,  <b><i>Xiamen University</i></b></a><br>
--->
+
 <center><img width = "100%" src="http://linchenmri.github.io/files/CollaborationGraph.bmp" alt=""></center>
