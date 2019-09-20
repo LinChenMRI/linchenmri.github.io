@@ -83,4 +83,4 @@ Patents
 5.	Cai S, Huang J, Cai C, <b>Chen L</b>, Liao P. An Efficient Water-Fat Separation Reconstruction Method Based on Single-Shot Spatiotemporally Encoded MRI. China Patent, No 2017102880508.
 <center><b><a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank"><h2>Download CV here</h2></a></b></center>
 <center><img width = "100%" src="http://linchenmri.github.io/files/CollaborationGraph.png" alt=""></center>
-<p align="right">[Generated based on the authorship of published papers]</p>
+<p align="right"><i>The above figure was generated based on the authorship of published papers</i></p>
