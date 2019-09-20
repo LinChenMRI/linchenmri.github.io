@@ -85,8 +85,7 @@ Patents
 <center><b><a href='http://linchenmri.github.io/files/LinChen_CV.pdf' target="_blank"><h2>Download CV here</h2></a></b></center>
 
 
-Collaborations
-======
+<center><img width = "100%" src="http://linchenmri.github.io/files/CollaborationGraph.bmp" alt=""></center><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/4804320/peter-vanzijl' target="_blank"><b>Peter C. M. van Zijl</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/10002131/jiadi-xu' target="_blank"><b>Jiadi Xu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
 * <a href='https://www.hopkinsmedicine.org/profiles/results/directory/profile/0000047/hanzhang-lu' target="_blank"><b>Hanzhang Lu</b>,  <b><i>Johns Hopkins University</i></b></a><br>
