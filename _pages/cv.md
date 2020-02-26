@@ -35,7 +35,7 @@ Honors and awards
 
 Journal publications
 ======
-1.	<b>Chen L</b>, Schar M, Chan KWY, Huang J, Wei Z, Lu H, Qin Q, Weiss R, van Zijl P, Xu J. In vivo imaging of phosphocreatine with artificial neural networks. <font color="#FF0000"><b><i>Nature Communications</i></b></font> 2020.<br>
+1.	<b>Chen L</b>, Schar M, Chan KWY, Huang J, Wei Z, Lu H, Qin Q, Weiss R, van Zijl P, Xu J. In vivo imaging of phosphocreatine with artificial neural networks. <font color="#FF0000"><b><i>Nature Communications</i></b></font> 2020;11(1):1072.<b><a href='https://doi.org/10.1038/s41467-020-14874-0' target="_blank">[Find paper here]</a></b><br>
 2.	Zhou Y, van Zijl PCM, Xu X, Xu J, Li Y, <b>Chen L</b>, Yadav NN. Magnetic resonance imaging of glycogen using its magnetic coupling with water. <font color="#FF0000"><b><i>Proc Natl Acad Sci USA</i></b></font> 2020;117(6),3144-3149.<br>
 3.	Huang J, van Zijl PCM, Han X, Dong CM, Cheng GWY, Tse K, Knutsson L, <b>Chen L</b>, Lai JHC, Wu EX, Xu J, Chan KWY. Altered D-glucose in brain parenchyma and cerebrospinal fluid of early Alzheimer’s disease detected by dynamic glucose enhanced MRI. <font color="#FF0000"><b><i>Science advances</i></b></font> 2020.<br>
 4.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI. <b><i>NeuroImage</i></b> 2019;188:380-390.<br>
