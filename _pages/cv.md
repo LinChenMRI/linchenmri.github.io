@@ -43,9 +43,9 @@ Journal publications
 6.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI. <b><i>NeuroImage</i></b> 2019;188:380-390.<br>
 7.	<b>Chen L</b>, Wei Z, Cai S, Li Y, Liu G, Lu H, Weiss RG, van Zijl PCM, Xu J. High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer. <b><i>NMR Biomed</i></b> 2019;32(11):e4168.<br>
 8.	<b>Chen L</b>, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping of mouse skeletal muscle by a polynomial and Lorentzian line-shape fitting CEST method. <b><i>Magn Reson Med</i></b> 2019;81(1):69-78.<br>
-9.	<b>Chen L</b>, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, van Zijl PCM, Xu J. Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse (VDMP) MRI. <b><i>Magn Reson Med</i></b> 2018;80(4):1568-1576.<b>(Editor’s Pick)</b><br>
+9.	<b>Chen L</b>, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, van Zijl PCM, Xu J. Separating fast and slow exchange transfer and magnetization transfer using off-resonance variable-delay multiple-pulse (VDMP) MRI. <b><i>Magn Reson Med</i></b> 2018;80(4):1568-1576.<font color="#FF0000"><b>(Editor’s Pick)</b></font> <br>
 10.	<b>Chen L</b>, Zeng H, Xu X, Yadav NN, Cai S, Puts NA, Barker PB, Li T, Weiss RG, van Zijl PCM, Xu J. Investigation of the contribution of total creatine to the CEST Z-spectrum of brain using a knockout mouse model. <b><i>NMR Biomed</i></b> 2017;30(12):e3834.<br>
-11.	<b>Chen L</b>, Huang J, Zhang T, Li J, Cai C, Cai S. Variable density sampling and non-Cartesian super-resolved reconstruction for spatiotemporally encoded single-shot MRI. <b><i>J Magn Reson</i></b> 2016;272:1-9.<b>(Cover Article)</b><br>
+11.	<b>Chen L</b>, Huang J, Zhang T, Li J, Cai C, Cai S. Variable density sampling and non-Cartesian super-resolved reconstruction for spatiotemporally encoded single-shot MRI. <b><i>J Magn Reson</i></b> 2016;272:1-9. <font color="#FF0000"><b>(Cover Article)</b></font> <br>
 12.	<b>Chen L</b>, Li J, Zhang M, Cai S, Zhang T, Cai C, Chen Z. Super-resolved enhancing and edge deghosting (SEED) for spatiotemporally encoded single-shot MRI. <b><i>Med Image Anal</i></b> 2015;23(1):1-14.<br>
 13.	<b>Chen L</b>, Bao L, Li J, Cai S, Cai C, Chen Z. An aliasing artifacts reducing approach with random undersampling for spatiotemporally encoded single-shot MRI. <b><i>J Magn Reson</i></b> 2013;237:115-124.<br>
 14.	Wei Z, <b>Chen L</b>, Hou X, van Zijl PCM, Xu J, Lu H. Age-Related Alterations in Brain Perfusion, Venous Oxygenation, and Oxygen Metabolic Rate of Mice: A 17-Month Longitudinal MRI Study. <b><i>Frontiers in Neurology</i></b> 2020;11(559)<br>
@@ -67,16 +67,17 @@ Journal publications
 30.	Chen Y, Li J, Qu X, <b>Chen L</b>, Cai C, Cai S, Zhong J, Chen Z. Partial Fourier transform reconstruction for single-shot MRI with linear frequency-swept excitation. <b><i>Magn Reson Med</i></b> 2013;69(5):1326-1336.<br>
 
 
+
 Conference abstracts
 ======
-1.	<b>Chen L</b>, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, van Zijl PCM, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019;<b>(Summa Cum Laude Merit Award)</b>.<br>
+1.	<b>Chen L</b>, Schär M, Chan KWY, Huang J, Qin Q, Weiss RG, van Zijl PCM, Xu J. High-resolution phosphocreatine mapping of human skeletal muscle by artificial neural network-based chemical exchange saturation transfer MRI at 3T. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019;<font color="#FF0000"><b>(Summa Cum Laude Merit Award)</b></font>.<br>
 2.	<b>Chen L</b>, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping by polynomial and Lorentzian line-shape (PLOF) CEST method. ISMRM 27th Annual Meeting & Exhibition, Montreal, 11-16 May 2019.<br>
 3.	<b>Chen L</b>, Wei Z, Xu X, Li Y, Cai S, Liu G, Lu H, Barker PB, Weiss RG, van Zijl PCM, Xu J. High-resolution total Creatine mapping of the mouse brain at 11.7T using CEST ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
 4.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein Aggregation in Mouse Brain with Alzheimer's Disease Revealed by Saturation Transfer MRI. ISMRM 26th Annual Meeting & Exhibition, Paris, 16-21 June 2018.<br>
 5.	<b>Chen L</b>, Xu X, Zeng H, Chan KWY, Yadav N, Cai S, Schunke KJ, Faraday N, van Zijl PCM, Xu J. Separating out Fast and Slow Chemical Exchange Using Off-resonance Variable Delay Multiple Pulse (VDMP) ISMRM 25th Annual Meeting & Exhibition, Honolulu, 22-27 April 2017.<br>
 6.	<b>Chen L</b>, Cai S, Cai C, Chen Z. Variable density spiral sampling and reconstruction for spatiotemporally encoded single-shot MRI. ISMRM 24th Annual Meeting & Exhibition, Singapore, 07-13 May 2016.<br>
 7.	<b>Chen L</b>, Cai S, Cai C, Chen Z. Super-resolved enhancing and edge deghosting for spatiotemporally encoded single-shot MRI. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
-8.	<b>Chen L</b>, Cai S, Cai C. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015;<b>(Best Poster Award)</b>.<br>
+8.	<b>Chen L</b>, Cai S, Cai C. Spiral Sampling for Spatiotemporally Encoded Single-Shot MRI. International Society of Magnetic Resonance, Shanghai, China, 16-21 August 2015;<font color="#FF0000"><b>(Best Poster Award)</b></font>.<br>
 9.	<b>Chen L</b>, Cai C, Cai S, Chen Z. Accelerating MRI by quadratic phase encoding. ISMRM 23rd Annual Meeting & Exhibition, Toronto, Ontario, Canada, 30 May-5 June 2015.<br>
 10.	<b>Chen L</b>, Cai C, Cai S, Chen Z. An artifacts reducing approach for fat-water separation in spatiotemporally encoded single-shot MRI. ISMRM 22nd Annual Meeting & Exhibition, Milan, Italy, 10 - 16 May 2014.<br>
 
