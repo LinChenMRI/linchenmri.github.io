@@ -35,11 +35,11 @@ Honors and awards
 
 Journal publications
 ======
-1.	<b>Chen L</b>, Schar M, Chan KWY, Huang J, Wei Z, Lu H, Qin Q, Weiss R, van Zijl P, Xu J. In vivo imaging of phosphocreatine with artificial neural networks. <font color="#FF0000"><b><i>Nature Communications</i></b></font> 2020;11(1):1072.  <b><a href='https://doi.org/10.1038/s41467-020-14874-0' target="_blank">[Find paper here]</a></b><br>
+1.	<b>Chen L</b>, Schar M, Chan KWY, Huang J, Wei Z, Lu H, Qin Q, Weiss R, van Zijl PCM, Xu J. In vivo imaging of phosphocreatine with artificial neural networks. <font color="#FF0000"><b><i>Nature Communications</i></b></font> 2020;11(1):1072.  <b><a href='https://doi.org/10.1038/s41467-020-14874-0' target="_blank">[Find paper here]</a></b><br>
 2.	Zhou Y, van Zijl PCM, Xu X, Xu J, Li Y, <b>Chen L</b>, Yadav NN. Magnetic resonance imaging of glycogen using its magnetic coupling with water. <font color="#FF0000"><b><i>Proc Natl Acad Sci USA</i></b></font> 2020;117(6),3144-3149.<br>
 3.	Huang J, van Zijl PCM, Han X, Dong CM, Cheng GWY, Tse K, Knutsson L, <b>Chen L</b>, Lai JHC, Wu EX, Xu J, Chan KWY. Altered D-glucose in brain parenchyma and cerebrospinal fluid of early Alzheimer’s disease detected by dynamic glucose enhanced MRI. <font color="#FF0000"><b><i>Science advances</i></b></font> 2020;6(20):eaba3884.<br>
-4.	<b>Chen L*</b>, Cao S, Koehler RC, Zijl PCMv, Xu J. High-sensitivity CEST Mapping Using A Spatiotemporal Correlation Enhanced Method. <b><i>Magn Reson Med</i></b> 2020; DOI:10.1002/mrm.28380; In press.<br>
-5.	<b>Chen L</b>, Wei Z, Chan KWY, Li Y, Suchal K, Bi S, Huang J, Xu X, Wong PC, Lu H, Zijl PCMv, Li T, Xu J. D-Glucose uptake and clearance in the tauopathy Alzheimer’s disease mouse brain detected by on-resonance variable delay multiple pulse MRI. <b><i>Journal of Cerebral Blood Flow & Metabolism</i></b> 2020; In press<br>
+4.	<b>Chen L*</b>, Cao S, Koehler RC, van Zijl PCM, Xu J. High-sensitivity CEST Mapping Using A Spatiotemporal Correlation Enhanced Method. <b><i>Magn Reson Med</i></b> 2020; DOI:10.1002/mrm.28380; In press.<br>
+5.	<b>Chen L</b>, Wei Z, Chan KWY, Li Y, Suchal K, Bi S, Huang J, Xu X, Wong PC, Lu H, van Zijl PCM, Li T, Xu J. D-Glucose uptake and clearance in the tauopathy Alzheimer’s disease mouse brain detected by on-resonance variable delay multiple pulse MRI. <b><i>Journal of Cerebral Blood Flow & Metabolism</i></b> 2020; In press<br>
 6.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI. <b><i>NeuroImage</i></b> 2019;188:380-390.<br>
 7.	<b>Chen L</b>, Wei Z, Cai S, Li Y, Liu G, Lu H, Weiss RG, van Zijl PCM, Xu J. High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer. <b><i>NMR Biomed</i></b> 2019;32(11):e4168.<br>
 8.	<b>Chen L</b>, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping of mouse skeletal muscle by a polynomial and Lorentzian line-shape fitting CEST method. <b><i>Magn Reson Med</i></b> 2019;81(1):69-78.<br>
@@ -65,7 +65,6 @@ Journal publications
 28.	Li J, <b>Chen L</b>, Cai S, Cai C, Zhong J, Chen Z. Imaging with referenceless distortion correction and flexible regions of interest using single-shot biaxial spatiotemporally encoded MRI. <b><i>NeuroImage</i></b> 2015;105(1):93-111.<br>
 29.	Li J, Cai CB, <b>Chen L</b>, Chen Y, Qu XB, Cai SH. Flexible reduced field of view magnetic resonance imaging based on single-shot spatiotemporally encoded technique. <b><i>Chinese Physics B</i></b> 2015;24(10):108703.<br>
 30.	Chen Y, Li J, Qu X, <b>Chen L</b>, Cai C, Cai S, Zhong J, Chen Z. Partial Fourier transform reconstruction for single-shot MRI with linear frequency-swept excitation. <b><i>Magn Reson Med</i></b> 2013;69(5):1326-1336.<br>
-
 
 
 Conference abstracts
