@@ -2,10 +2,10 @@
 title: "High-sensitivity CEST mapping using a spatiotemporal correlation-enhanced method"
 collection: publications
 permalink: /publications/29-June-2020-paper-title-number-99998
-excerpt: '<b>MLSVD CEST provides a simple and efficient way to improve the SNR of CEST images.</b><br><center><img width = "100%" src="http://linchenmri.github.io/files/2020-MRM-MLSVDCEST.png" alt=""></center>'
+excerpt: '<b>MLSVD CEST provides a simple and efficient way to improve the SNR of CEST images.</b><br><center><img width = "80%" src="http://linchenmri.github.io/files/2020-MRM-MLSVDCEST.png" alt=""></center>'
 date: 29-June-2020
 venue: 'Magnetic Resonance in Medicine'
-citation: '<b>Chen L*</b>, Cao S, Koehler RC, van Zijl PCM, Xu J. High-sensitivity CEST mapping using a spatiotemporal correlation-enhanced method. Magn Reson Med 2020;https://doi.org/10.1002/mrm.28380'
+citation: '<b>Chen L*</b>, Cao S, Koehler RC, van Zijl PCM, Xu J. High-sensitivity CEST mapping using a spatiotemporal correlation-enhanced method. Magn Reson Med 2020; https://doi.org/10.1002/mrm.28380'
 ---
 Purpose
 To obtain high‐sensitivity CEST maps by exploiting the spatiotemporal correlation between CEST images.
@@ -19,7 +19,7 @@ Complex‐valued Gaussian noise was added to CEST k‐space data to mimic a low 
 Conclusion
 MLSVD CEST provides a simple and efficient way to improve the SNR of CEST images.
 
-<center><img width = "100%" src="http://linchenmri.github.io/files/2020-MRM-MLSVDCEST.png" alt=""></center>
+<center><img width = "80%" src="http://linchenmri.github.io/files/2020-MRM-MLSVDCEST.png" alt=""></center>
 <br>
 <a href='https://doi.org/10.1002/mrm.28380'>Download paper here</a>
 <br>
