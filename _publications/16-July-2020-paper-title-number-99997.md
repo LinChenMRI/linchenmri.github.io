@@ -1,5 +1,5 @@
 ---
-title: "D-Glucose uptake and clearance in the tauopathy Alzheimer’s disease mouse brain detected by on-resonance variable delay multiple pulse MRI"
+title: "D-Glucose uptake and clearance in the tauopathy Alzheimer's disease mouse brain detected by on-resonance variable delay multiple pulse MRI"
 collection: publications
 permalink: /publications/16-July-2020-paper-title-number-99997
 excerpt: '<b>Functioning of the glucose transporter and glymphatic systems in the tauopathy AD mouse brain studied by onVDMP MRI and D-glucose infusion</b><br><center><img width = "80%" src="http://linchenmri.github.io/files/2020-JCBFM-onVDMP-AD.png" alt=""></center>'
