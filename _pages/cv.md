@@ -24,8 +24,10 @@ Education
 
 Honors and awards
 ======
+* 2020 OCSMRM Young Investigator Award First Place
+* 2020 ISMRM Magna Cum Laude Merit Award
+* 2019 OCSMRM Young Investigator Award Third Place
 * 2019 ISMRM Summa Cum Laude Merit Award
-* 2019 OCSMRM Young Investigator Award
 * 2018 First Prize of the 13th Excellent Academic Paper of Natural Science in Fujian Province
 * 2016 National Scholarship for Graduate Students
 * 2016, 2015, 2014 ISMRM Educational Stipend
@@ -38,8 +40,8 @@ Journal publications
 1.	<b>Chen L</b>, Schar M, Chan KWY, Huang J, Wei Z, Lu H, Qin Q, Weiss R, van Zijl PCM, Xu J. In vivo imaging of phosphocreatine with artificial neural networks. <font color="#FF0000"><b><i>Nature Communications</i></b></font> 2020;11(1):1072.  <b><a href='https://doi.org/10.1038/s41467-020-14874-0' target="_blank">[Find paper here]</a></b><br>
 2.	Zhou Y, van Zijl PCM, Xu X, Xu J, Li Y, <b>Chen L</b>, Yadav NN. Magnetic resonance imaging of glycogen using its magnetic coupling with water. <font color="#FF0000"><b><i>Proc Natl Acad Sci USA</i></b></font> 2020;117(6),3144-3149.<br>
 3.	Huang J, van Zijl PCM, Han X, Dong CM, Cheng GWY, Tse K, Knutsson L, <b>Chen L</b>, Lai JHC, Wu EX, Xu J, Chan KWY. Altered D-glucose in brain parenchyma and cerebrospinal fluid of early Alzheimer’s disease detected by dynamic glucose enhanced MRI. <font color="#FF0000"><b><i>Science advances</i></b></font> 2020;6(20):eaba3884.<br>
-4.	<b>Chen L*</b>, Cao S, Koehler RC, van Zijl PCM, Xu J. High-sensitivity CEST mapping using a spatiotemporal correlation-enhanced method.  <b><i>Magn Reson Med</i></b> 2020; https://doi.org/10.1002/mrm.28380<br>
-5.	<b>Chen L</b>, Wei Z, Chan KWY, Li Y, Suchal K, Bi S, Huang J, Xu X, Wong PC, Lu H, van Zijl PCM, Li T, Xu J. D-Glucose uptake and clearance in the tauopathy Alzheimer’s disease mouse brain detected by on-resonance variable delay multiple pulse MRI. <b><i>Journal of Cerebral Blood Flow & Metabolism</i></b> 2020; https://doi.org/10.1177/0271678X20941264<br>
+4.	<b>Chen L*</b>, Cao S, Koehler RC, van Zijl PCM, Xu J. High-sensitivity CEST mapping using a spatiotemporal correlation-enhanced method.  <b><i>Magn Reson Med</i></b> 2020; https://doi.org/10.1002/mrm.28380.<br>
+5.	<b>Chen L</b>, Wei Z, Chan KWY, Li Y, Suchal K, Bi S, Huang J, Xu X, Wong PC, Lu H, van Zijl PCM, Li T, Xu J. D-Glucose uptake and clearance in the tauopathy Alzheimer’s disease mouse brain detected by on-resonance variable delay multiple pulse MRI. <b><i>Journal of Cerebral Blood Flow & Metabolism</i></b> 2020; https://doi.org/10.1177/0271678X20941264.<br>
 6.	<b>Chen L</b>, Wei Z, Chan KWY, Cai S, Liu G, Lu H, Wong PC, van Zijl PCM, Li T, Xu J. Protein aggregation linked to Alzheimer's disease revealed by saturation transfer MRI. <b><i>NeuroImage</i></b> 2019;188:380-390.<br>
 7.	<b>Chen L</b>, Wei Z, Cai S, Li Y, Liu G, Lu H, Weiss RG, van Zijl PCM, Xu J. High-resolution creatine mapping of mouse brain at 11.7 T using non-steady-state chemical exchange saturation transfer. <b><i>NMR Biomed</i></b> 2019;32(11):e4168.<br>
 8.	<b>Chen L</b>, Barker PB, Weiss RG, van Zijl PCM, Xu J. Creatine and phosphocreatine mapping of mouse skeletal muscle by a polynomial and Lorentzian line-shape fitting CEST method. <b><i>Magn Reson Med</i></b> 2019;81(1):69-78.<br>
@@ -48,23 +50,24 @@ Journal publications
 11.	<b>Chen L</b>, Huang J, Zhang T, Li J, Cai C, Cai S. Variable density sampling and non-Cartesian super-resolved reconstruction for spatiotemporally encoded single-shot MRI. <b><i>J Magn Reson</i></b> 2016;272:1-9. <font color="#FF0000"><b>(Cover Article)</b></font> <br>
 12.	<b>Chen L</b>, Li J, Zhang M, Cai S, Zhang T, Cai C, Chen Z. Super-resolved enhancing and edge deghosting (SEED) for spatiotemporally encoded single-shot MRI. <b><i>Med Image Anal</i></b> 2015;23(1):1-14.<br>
 13.	<b>Chen L</b>, Bao L, Li J, Cai S, Cai C, Chen Z. An aliasing artifacts reducing approach with random undersampling for spatiotemporally encoded single-shot MRI. <b><i>J Magn Reson</i></b> 2013;237:115-124.<br>
-14.	Wei Z, <b>Chen L</b>, Hou X, van Zijl PCM, Xu J, Lu H. Age-Related Alterations in Brain Perfusion, Venous Oxygenation, and Oxygen Metabolic Rate of Mice: A 17-Month Longitudinal MRI Study. <b><i>Frontiers in Neurology</i></b> 2020;11(559)<br>
-15.	Huang J, <b>Chen L</b>, Chan KWY, Cai C, Cai S, Chen Z. Super-resolved water/fat image reconstruction based on single-shot spatiotemporally encoded MRI. <b><i>J Magn Reson</i></b> 2020;314:106736.<br>
-16.	Chen F, Lai S, Cai H, Wei Z, Ke H, <b>Chen L</b>, Lin L. Quantitative density operator analysis of correlation spectroscopy NMR experiments. <b><i>Chemical Papers</i></b> 2020, DOI: 10.1007/s11696-020-01197-z<br>
-17.	Xu X, Xu J, Chan KWY, Liu J, Liu H, Li Y, <b>Chen L</b>, Liu G, van Zijl PCM. GlucoCEST imaging with on-resonance variable delay multiple pulse (onVDMP) MRI. <b><i>Magn Reson Med</i></b> 2019;81(1):47-56.<br>
-18.	Wei Z, <b>Chen L</b>, Lin Z, Jiang D, Xu J, Liu P, van Zijl PCM, Lu H. Optimization of phase-contrast MRI for the estimation of global cerebral blood flow of mice at 11.7T. <b><i>Magn Reson Med</i></b> 2019;81(4):2566-2575.<br>
-19.	Wei Z, Xu J, Liu P, <b>Chen L</b>, Li W, van Zijl P, Lu H. Quantitative assessment of cerebral venous blood T2 in mouse at 11.7T: Implementation, optimization, and age effect. <b><i>Magn Reson Med</i></b> 2018;80(2):521-528.<br>
-20.	Ren P, Li B, Dong S, <b>Chen L</b>, Zhang Y. The reliability of nonlinear least-squares algorithm for data analysis of neural response activity during sinusoidal rotational stimulation in semicircular canal neurons. <b><i>PLoS One</i></b> 2018;13(1):e0190596.<br>
-21.	Luo Y, Zhang J, <b>Chen L</b>, Cai S, Cai C. Accelerating multi-slice spatiotemporally encoded MRI with simultaneous echo refocusing. <b><i>J Magn Reson</i></b> 2018;296:12-22.<br>
-22.	Ye Q, <b>Chen L</b>, Qiu W, Lin L, Sun H, Cai S, Wei Z, Chen Z. Accelerating two-dimensional nuclear magnetic resonance correlation spectroscopy via selective coherence transfer. <b><i>J Chem Phys</i></b> 2017;146(1):014202.<br>
-23.	Huang J, Zhang M, Lu J, Cai C, <b>Chen L</b>, Cai S. A fast chemical exchange saturation transfer imaging scheme based on single-shot spatiotemporal encoding. <b><i>Magn Reson Med</i></b> 2017;77(5):1786-1796.<br>
-24.	Zhang T, <b>Chen L</b>, Huang J, Li J, Cai S, Cai C, Chen Z. Ultrafast multi-slice spatiotemporally encoded MRI with slice-selective dimension segmented. <b><i>J Magn Reson</i></b> 2016;269:138-145.<br>
-25.	Wei ZL, Yang J, Chen YH, <b>Chen L</b>, Cao SH, Cai SH, Lin YQ, Chen Z. Ultrafast multidimensional nuclear magnetic resonance technique: A proof of concept based on inverse-k-space for convenient and efficient performance. <b><i>Applied Physics Letters</i></b> 2016;108(8):084102.<br>
-26.	Li A-H, Lü M, Yang J, <b>Chen L</b>, Cui X, Sun Z. Upconversion-luminescent/magnetic dual-functional sub-20-nm core-shell SrF_2: Yb, Tm@ CaF_2: Gd heteronanoparticles. <b><i>Dalton Trans</i></b> 2016;45:5800-5807.<br>
-27.	Li J, Zhang M, <b>Chen L</b>, Cai C, Sun H, Cai S. Reduced field-of-view imaging for single-shot MRI with an amplitude-modulated chirp pulse excitation and Fourier transform reconstruction. <b><i>Magn Reson Imaging</i></b> 2015;33(5):503-515.<br>
-28.	Li J, <b>Chen L</b>, Cai S, Cai C, Zhong J, Chen Z. Imaging with referenceless distortion correction and flexible regions of interest using single-shot biaxial spatiotemporally encoded MRI. <b><i>NeuroImage</i></b> 2015;105(1):93-111.<br>
-29.	Li J, Cai CB, <b>Chen L</b>, Chen Y, Qu XB, Cai SH. Flexible reduced field of view magnetic resonance imaging based on single-shot spatiotemporally encoded technique. <b><i>Chinese Physics B</i></b> 2015;24(10):108703.<br>
-30.	Chen Y, Li J, Qu X, <b>Chen L</b>, Cai C, Cai S, Zhong J, Chen Z. Partial Fourier transform reconstruction for single-shot MRI with linear frequency-swept excitation. <b><i>Magn Reson Med</i></b> 2013;69(5):1326-1336.<br>
+14.	Huang J, Han X, <b>Chen L</b>, Xu X, Xu J, Chan KWY. Relayed nuclear Overhauser enhancement imaging with magnetization transfer contrast suppression at 3 T. <b><i>Magn Reson Med</i></b> 2020; http://dx.doi.org/10.1002/mrm.28433.<br>
+15.	Wei Z, <b>Chen L</b>, Hou X, van Zijl PCM, Xu J, Lu H. Age-Related Alterations in Brain Perfusion, Venous Oxygenation, and Oxygen Metabolic Rate of Mice: A 17-Month Longitudinal MRI Study. <b><i>Frontiers in Neurology</i></b> 2020;11(559)<br>
+16.	Huang J, <b>Chen L</b>, Chan KWY, Cai C, Cai S, Chen Z. Super-resolved water/fat image reconstruction based on single-shot spatiotemporally encoded MRI. <b><i>J Magn Reson</i></b> 2020;314:106736.<br>
+17.	Chen F, Lai S, Cai H, Wei Z, Ke H, <b>Chen L</b>, Lin L. Quantitative density operator analysis of correlation spectroscopy NMR experiments. <b><i>Chemical Papers</i></b> 2020, DOI: 10.1007/s11696-020-01197-z<br>
+18.	Xu X, Xu J, Chan KWY, Liu J, Liu H, Li Y, <b>Chen L</b>, Liu G, van Zijl PCM. GlucoCEST imaging with on-resonance variable delay multiple pulse (onVDMP) MRI. <b><i>Magn Reson Med</i></b> 2019;81(1):47-56.<br>
+19.	Wei Z, <b>Chen L</b>, Lin Z, Jiang D, Xu J, Liu P, van Zijl PCM, Lu H. Optimization of phase-contrast MRI for the estimation of global cerebral blood flow of mice at 11.7T. <b><i>Magn Reson Med</i></b> 2019;81(4):2566-2575.<br>
+20.	Wei Z, Xu J, Liu P, <b>Chen L</b>, Li W, van Zijl P, Lu H. Quantitative assessment of cerebral venous blood T2 in mouse at 11.7T: Implementation, optimization, and age effect. <b><i>Magn Reson Med</i></b> 2018;80(2):521-528.<br>
+21.	Ren P, Li B, Dong S, <b>Chen L</b>, Zhang Y. The reliability of nonlinear least-squares algorithm for data analysis of neural response activity during sinusoidal rotational stimulation in semicircular canal neurons. <b><i>PLoS One</i></b> 2018;13(1):e0190596.<br>
+22.	Luo Y, Zhang J, <b>Chen L</b>, Cai S, Cai C. Accelerating multi-slice spatiotemporally encoded MRI with simultaneous echo refocusing. <b><i>J Magn Reson</i></b> 2018;296:12-22.<br>
+23.	Ye Q, <b>Chen L</b>, Qiu W, Lin L, Sun H, Cai S, Wei Z, Chen Z. Accelerating two-dimensional nuclear magnetic resonance correlation spectroscopy via selective coherence transfer. <b><i>J Chem Phys</i></b> 2017;146(1):014202.<br>
+24.	Huang J, Zhang M, Lu J, Cai C, <b>Chen L</b>, Cai S. A fast chemical exchange saturation transfer imaging scheme based on single-shot spatiotemporal encoding. <b><i>Magn Reson Med</i></b> 2017;77(5):1786-1796.<br>
+25.	Zhang T, <b>Chen L</b>, Huang J, Li J, Cai S, Cai C, Chen Z. Ultrafast multi-slice spatiotemporally encoded MRI with slice-selective dimension segmented. <b><i>J Magn Reson</i></b> 2016;269:138-145.<br>
+26.	Wei ZL, Yang J, Chen YH, <b>Chen L</b>, Cao SH, Cai SH, Lin YQ, Chen Z. Ultrafast multidimensional nuclear magnetic resonance technique: A proof of concept based on inverse-k-space for convenient and efficient performance. <b><i>Applied Physics Letters</i></b> 2016;108(8):084102.<br>
+27.	Li A-H, Lü M, Yang J, <b>Chen L</b>, Cui X, Sun Z. Upconversion-luminescent/magnetic dual-functional sub-20-nm core-shell SrF_2: Yb, Tm@ CaF_2: Gd heteronanoparticles. <b><i>Dalton Trans</i></b> 2016;45:5800-5807.<br>
+28.	Li J, Zhang M, <b>Chen L</b>, Cai C, Sun H, Cai S. Reduced field-of-view imaging for single-shot MRI with an amplitude-modulated chirp pulse excitation and Fourier transform reconstruction. <b><i>Magn Reson Imaging</i></b> 2015;33(5):503-515.<br>
+29.	Li J, <b>Chen L</b>, Cai S, Cai C, Zhong J, Chen Z. Imaging with referenceless distortion correction and flexible regions of interest using single-shot biaxial spatiotemporally encoded MRI. <b><i>NeuroImage</i></b> 2015;105(1):93-111.<br>
+30.	Li J, Cai CB, <b>Chen L</b>, Chen Y, Qu XB, Cai SH. Flexible reduced field of view magnetic resonance imaging based on single-shot spatiotemporally encoded technique. <b><i>Chinese Physics B</i></b> 2015;24(10):108703.<br>
+31.	Chen Y, Li J, Qu X, <b>Chen L</b>, Cai C, Cai S, Zhong J, Chen Z. Partial Fourier transform reconstruction for single-shot MRI with linear frequency-swept excitation. <b><i>Magn Reson Med</i></b> 2013;69(5):1326-1336.<br>
 
 
 Conference abstracts
