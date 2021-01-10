@@ -83,7 +83,7 @@ author:
   name             : "Lin Chen"
   avatar           : "profile.png"
   bio              : "Associate Professor"
-  location         : "Xiamen, China"
+  location         : #"Xiamen, China"
   employer         : "Xiamen University"
   pubmed           : "https://publons.com/researcher/3102636/lin-chen/"
   googlescholar    : "https://scholar.google.com/citations?user=4NapayIAAAAJ&hl=en"
