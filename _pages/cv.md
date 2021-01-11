@@ -20,7 +20,7 @@ Education
 * M.S. in Electronics and Communication Engineering, Xiamen University, 2014
 * Ph.D. in Electromagnetic Field and Microwave Technology, Xiamen University, 2017
 * Visiting Student, Johns Hopkins University, 2015 - 2017
-* Postdoctoral Fellow, Johns Hopkins University, 2018 - Present
+* Postdoctoral Fellow, Johns Hopkins University, 2018 - 2020
 
 Honors and awards
 ======
